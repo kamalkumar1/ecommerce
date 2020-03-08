@@ -1,0 +1,5 @@
+C:\Users\kamal\Documents\ecommerce\ecomservice\bin\ecomservice.dll.config
+C:\Users\kamal\Documents\ecommerce\ecomservice\bin\ecomservice.dll
+C:\Users\kamal\Documents\ecommerce\ecomservice\bin\ecomservice.pdb
+C:\Users\kamal\Documents\ecommerce\ecomservice\obj\Debug\ecomservice.dll
+C:\Users\kamal\Documents\ecommerce\ecomservice\obj\Debug\ecomservice.pdb
